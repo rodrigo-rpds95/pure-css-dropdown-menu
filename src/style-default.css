@@ -1,0 +1,4 @@
+ul > li { position: relative;}
+ul > li a[href="#foo"] { display: none; height: 20px; position: absolute; top: 0; width: 100%;}
+ul > li ul { display: none; }
+:target, :target + a[href="#foo"] { display: block;}
