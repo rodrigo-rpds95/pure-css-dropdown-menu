@@ -2,7 +2,7 @@
 
 ![Screenshot](dropdown-menu.png)
 
-##Supported Browsers
+## Supported Browsers
 
 - Chrome (tested only on 75)
 - Firefox (tested only on 60)
